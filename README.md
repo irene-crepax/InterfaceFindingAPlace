@@ -1,0 +1,1 @@
+Welcome to InterfaceFindingAPlace, the git repo which allows you to use the code for https://github.com/irene-crepax/FindingAPlace/tree/master via a simple interface powered by Streamlit. To use the code, please clone the repository, follow the steps in Installation.md to install the required packages, and on your local machine run run.bat to start the interface. 
