@@ -1,0 +1,16 @@
+tk
+imutils
+layoutparser
+nltk
+numpy
+opencv-python
+pandas
+pytesseract
+scikit-image
+scikit-learn
+scipy
+toml
+thefuzz
+wxPython
+streamlit
+streamlit_image_select
