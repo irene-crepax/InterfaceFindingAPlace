@@ -10,9 +10,9 @@ scikit-image
 scikit-learn
 scipy
 toml
-torch
-torchvision
-torchaudio
+torch==2.3.1
+torchvision==0.18.1 
+torchaudio==2.3.1
 thefuzz
 wxPython
 streamlit
