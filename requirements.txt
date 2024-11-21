@@ -1,3 +1,4 @@
+libtk8.6
 tk
 imutils
 layoutparser
