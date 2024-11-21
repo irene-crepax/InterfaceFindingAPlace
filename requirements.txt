@@ -18,5 +18,3 @@ wxPython
 streamlit
 streamlit_image_select
 pytorch-ignite
-git+https://github.com/openai/CLIP.git
-git+https://github.com/facebookresearch/detectron2.git
